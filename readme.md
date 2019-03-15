@@ -1,2 +1,2 @@
-#Git_Practce
+#Git_Practice
 
